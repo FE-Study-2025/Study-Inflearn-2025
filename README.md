@@ -1,5 +1,17 @@
 # 🎓 인프런 스터디
 
+
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/687142409908081937/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+</a>
+
+
+
 ## ✨ 스터디 소개
 
 **목표**  
